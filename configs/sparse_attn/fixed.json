@@ -1,0 +1,9 @@
+{
+  "class": "FixedSparsityConfig",
+  "block": 16, 
+  "num_local_blocks": 4, 
+  "num_global_blocks": 1, 
+  "attention": "bidirectional", 
+  "horizontal_global_attention": false, 
+  "num_different_global_patterns": 1
+}

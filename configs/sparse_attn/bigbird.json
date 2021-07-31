@@ -1,0 +1,7 @@
+{
+  "class": "BigBirdSparsityConfig",
+  "block": 16, 
+  "num_random_blocks": 1, 
+  "num_sliding_window_blocks": 3, 
+  "num_global_blocks": 1
+}

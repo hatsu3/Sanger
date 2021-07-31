@@ -1,0 +1,6 @@
+{
+    "class": "BlockStructuredRandomSparsityConfig",
+    "block_shape": [64, 128], 
+    "pe_array_shape": [32, 32],
+    "different_layout_per_head": false
+}
